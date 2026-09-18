@@ -38,7 +38,7 @@ Clique no ícone `🎯` para acessar o projeto. / Click the icon `🎯` to acces
 
 | Órgão emissor          | Curso                                                                                                                                                                                                | Carga horária | Conclusão |
 |:----------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------:|:---------:|
-| Cisco Network Academy | Começando com o Cisco Packet Tracer [:scroll:](https://github.com/sza7xx/Certificates/images/packettracer.pdf)                                          | 49 H          | 2024      |
+| Cisco Network Academy | Começando com o Cisco Packet Tracer [:scroll:](https://github.com/sza7xx/Certificates/blob/main/images/packettracer.pdf)                                         | 49 H          | 2024      |
 
 ## :computer: BootCamps
 
