@@ -16,28 +16,20 @@ Clique no ícone `🎯` para acessar o projeto. / Click the icon `🎯` to acces
 
 | Instituição                                           | Formação                                                                                                                                                                                                                       | Conclusão |
 |:-----------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------:|
-| Senac - GO    | Técnico em Defesa Cibernética (Em processo...)  [:scroll:] | 2025      |
-| Estácio de Sá de Goiás | Redes de Computadores (Em processo...) [:scroll:] | 2026      |
+| Senac - GO    | Técnico em Defesa Cibernética (Em processo...)  | 2025      |
+| Estácio de Sá de Goiás | Redes de Computadores (Em processo...) | 2026      |
 
 ## 🎓 Cursos
 
 **Courses**
 
-#### :computer: Computação/T.I.
+#### :computer: Computação/Cyber
 
-**Computing/I.T.**
+**Computing/Cyber**
 
 | Órgão emissor                                  | Curso                                                                                                                                                                                                                                                                                                     | Carga horária | Conclusão |
 |:----------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------:|:---------:|
-| Polimicro                                      | Job Training I - (Digitação; MS/DOS; Windows3.1; Word for Windows)  [:scroll:](https://github.com/viniciuskurt/Certificados/blob/master/Certificado%20Polimicro%20-%20Job%20Training%20I.pdf)                                                                                                             | 32 h          | 1995      |
-                                                                                                                                                                                                                                                  
-
-#### :books: Outros Cursos
-
-**Other Courses**
-
-| Órgão emissor          | Curso                                                                                                                                                                                                | Carga horária | Conclusão |
-|:----------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------:|:---------:|
+| Cisco Network Academy | 1. Introdução à Cibersegurança [:scroll:](https://github.com/sza7xx/Certificates/blob/main/images/defesacisco.pdf)                                         | 6H          | 2026      |
 | Cisco Network Academy | Começando com o Cisco Packet Tracer [:scroll:](https://github.com/sza7xx/Certificates/blob/main/images/packettracer.pdf)                                         | 2 H          | 2026      |
 
 ## :computer: BootCamps
@@ -62,7 +54,7 @@ Click on the :scroll: icon to view the certificates. (Events without the icon di
 
 **Tools and Expertises**
 
----- Active Directory Windows ---- Samba ---- Proxmox ---- OPNSense ---- Zenarmor ---- Zabbix ---- Grafana ---- Python ---- GitHub ---- GLPi ---- LibreOffice ---- Microsoft Office ---- Linux ---- Windows ---- VSCode ---- SciPy ---- WordPress ---- snap-in DHCP Windows ---- TCP-IP ---- Ubuntu ---- Helpdesk ---- Suporte ---- Gestão de Chamados ---- Prompts Inteligentes
+Active Directory Windows ---- Samba ---- Proxmox ---- OPNSense ---- Zenarmor ---- Zabbix ---- Grafana ---- Python ---- GitHub ---- GLPi ---- LibreOffice ---- Microsoft Office ---- Linux ---- Windows ---- VSCode ---- WordPress ---- snap-in DHCP Windows ---- TCP-IP ---- Ubuntu ---- Helpdesk ---- Suporte ---- Gestão de Chamados ---- Prompts Inteligentes
 
 ## 🎲 Outros
 
