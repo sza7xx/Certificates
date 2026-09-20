@@ -31,7 +31,7 @@ Clique no ícone `🎯` para acessar o projeto. / Click the icon `🎯` to acces
 |:----------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------:|:---------:|
 | Cisco Network Academy | 1. Introdução à Cibersegurança [:scroll:](https://github.com/sza7xx/Certificates/blob/main/images/defesacisco.pdf)                                         | 6H          | 2026      |
 | Cisco Network Academy | Começando com o Cisco Packet Tracer [:scroll:](https://github.com/sza7xx/Certificates/blob/main/images/packettracer.pdf)                                         | 2 H          | 2026      |
-| Cisco Network Academy | Sensibilização para a segurança digital [:scroll:]([https://github.com/sza7xx/Certificates/blob/main/images/packettracer.pdf](https://github.com/sza7xx/Certificates/blob/main/images/Digital_Safety_and_Security_Awareness_certificate_natansoza108-gmail-com_42055054-46a1-4eff-8f7d-379201fe5bab.pdf))                                         | 2 H          | 2026      |
+| Cisco Network Academy | Sensibilização para a segurança digital [:scroll:](https://github.com/sza7xx/Certificates/blob/main/images/Digital_Safety_and_Security.pdf)                                         | 6 H          | 2026      |
 
 ## :computer: BootCamps
 
