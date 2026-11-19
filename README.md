@@ -16,8 +16,8 @@ Clique no ícone `🎯` para acessar o projeto. / Click the icon `🎯` to acces
 
 | Instituição                                           | Formação                                                                                                                                                                                                                       | Conclusão |
 |:-----------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------:|
-| Senac - GO    | Técnico em Defesa Cibernética (Em processo...)  | 2025      |
-| Estácio de Sá de Goiás | Redes de Computadores (Em processo...) | 2026      |
+| Senac - GO    | Técnico em Defesa Cibernética (Em processo...)  | 2027      |
+| Estácio de Sá de Goiás | Redes de Computadores (Em processo...) | 2028      |
 
 ## 🎓 Cursos
 
